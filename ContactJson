@@ -1,4 +1,4 @@
-{
+[{
       "phone": "514-555-1111",
       "age": 29,
       "name": "Campos York",
@@ -898,3 +898,4 @@
       "email": "shawnamathis@kangle.com",
       "photo": "https://randomuser.me/api/portraits/men/31.jpg"
     }
+]
